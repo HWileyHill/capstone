@@ -8,6 +8,7 @@ The [SHOE DATASET](https://www.kaggle.com/datasets/mdwaquarazam/shoe-dataset), p
 * notebook_examine_data.ipynb -- A Jupyter notebook containing all my code for reading, analyzing, and processing the data this project was about.
 * MEN_SHOES.csv -- The original dataset, exactly as downloaded from the link above.
 * MEN_SHOES_BEST.csv -- A cleaned and truncated subset of the previous dataset, showcasing the best shoes in the dataset.
+* MEN_SHOES_CLEAN.csv -- The original dataset, cleaned.
 * README.md -- You are here!
 
 ## Methodology
